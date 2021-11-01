@@ -1,2 +1,1 @@
-# fratama.github.io
-Web
+# fratama.github.io = https://indrasukmafratama.github.io/fratama.github.io/
